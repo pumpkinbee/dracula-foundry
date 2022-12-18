@@ -29,6 +29,6 @@
     "readme": "https://github.com/pumpkinbee/dracula-foundry#readme",
     "bugs": "https://github.com/pumpkinbee/dracula-foundry/issues",
     "changelog": "https://github.com/pumpkinbee/dracula-foundry/releases/latest/",
-    "manifest": "https://github.com/pumpkinbee/dracula-foundry/blob/main/module.json",
+    "manifest": "https://github.com/pumpkinbee/dracula-foundry/releases/download/latest/module.json",
     "download": "https://github.com/pumpkinbee/dracula-foundry/archive/refs/tags/0.0.1.zip"
 }
